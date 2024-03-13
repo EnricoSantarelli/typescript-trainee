@@ -40,7 +40,7 @@ Instale o TypeScript globalmente
   npm install -g typescript
 ```
 
-Transpile os arquivos Typescript para Javascript automáticamente
+Transpile os arquivos Typescript para Javascript automaticamente
 
 ```bash
   tsc -w
