@@ -49,7 +49,7 @@ Transpile os arquivos TypeScript para JavaScript automaticamente
 Execute os arquivos desejados
 
 ```bash
-  node /build/pasta/arquivo.js
+  node ./build/pasta/arquivo.js
 ```
 
 
