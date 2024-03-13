@@ -1,7 +1,7 @@
 ﻿
-# Trainee Typescript Dev. Community
+# Trainee TypeScript Dev. Community
 
-Repositório para o trainee de typescript da entidade universitária Dev. Community Mauá. Aqui você irá encontrar exercícios para serem resolvidos, gabaritos de exercícios e exemplos da linguagem Typescript.
+Repositório para o trainee de TypeScript da entidade universitária Dev. Community Mauá. Aqui você irá encontrar exercícios para serem resolvidos, gabaritos de exercícios e exemplos da linguagem Typescript.
 
 
 
@@ -40,7 +40,7 @@ Instale o TypeScript globalmente
   npm install -g typescript
 ```
 
-Transpile os arquivos Typescript para Javascript automaticamente
+Transpile os arquivos TypeScript para JavaScript automaticamente
 
 ```bash
   tsc -w
